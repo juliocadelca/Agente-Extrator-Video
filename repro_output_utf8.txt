@@ -1,0 +1,10 @@
+--- Testando raw API para BxRUXiV57qo ---
+- Language: Portuguese (auto-generated) (pt), Generated: True
+  √ Fetch sucesso! (779 segmentos)
+--- Testando raw API para qMtcWqzGe8M ---
+Erro na raw API para qMtcWqzGe8M: VideoUnavailable: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=qMtcWqzGe8M! This is most likely caused by:
+
+The video is no longer available
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!

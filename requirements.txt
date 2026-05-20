@@ -1,0 +1,28 @@
+# YouTube Data API v3
+google-api-python-client==2.111.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+
+# Transcrição de vídeos
+youtube-transcript-api==1.2.4
+
+# Validação de dados
+pydantic>=2.10.0
+pydantic-settings>=2.6.0
+
+# Gerenciamento de ambiente
+python-dotenv==1.0.0
+
+# HTTP client com retry
+requests==2.31.0
+urllib3==2.1.0
+
+# Exportação de dados
+pandas>=2.2.0
+
+# CLI aprimorado
+rich==13.7.0
+
+# Type checking (dev)
+mypy==1.8.0
+types-requests==2.31.0.20240106

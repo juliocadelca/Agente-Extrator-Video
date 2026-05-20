@@ -1,0 +1,34 @@
+========================================================================
+YOUTUBE DATA EXTRACTOR PRO - GUIA DE USO
+========================================================================
+
+Parabéns! O software foi instalado com sucesso.
+
+1. COMO EXECUTAR:
+   ---------------------------------------------------------------------
+   Procure pelo atalho "YouTube Extractor Pro" na sua Área de Trabalho
+   ou no Menu Iniciar.
+
+2. COMO USAR:
+   ---------------------------------------------------------------------
+   - Cole a URL do vídeo ou Short no campo de texto.
+   - Selecione os formatos desejados (JSON/CSV).
+   - Clique em "EXTRAIR DADOS".
+   - Ao final, clique em "Abrir Pasta" para ver os arquivos.
+
+3. REINSTALAÇÃO (Opcional):
+   ---------------------------------------------------------------------
+   Se precisar reinstalar ou mover arquivos:
+   - Execute o arquivo "setup_installer.py" dentro da pasta do projeto:
+     python setup_installer.py
+
+4. NOTAS TÉCNICAS:
+   ---------------------------------------------------------------------
+   - O executável principal está em:
+     %LOCALAPPDATA%\Programs\YouTubeExtractor\YouTubeExtractor.exe
+   
+   - Logs de execução são salvos na mesma pasta do executável.
+
+========================================================================
+Desenvolvido por: Agente Antigravity
+========================================================================
