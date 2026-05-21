@@ -25,6 +25,8 @@ Aplicação Python profissional para extração completa de dados de vídeos do 
 1. **Clone ou baixe o projeto**
 
 ```bash
+git clone https://github.com/juliocadelca/Agente-Extrator-Video.git
+
 cd "Agente Extrator Vídeo"
 ```
 
@@ -44,6 +46,15 @@ source venv/bin/activate
 
 ```bash
 pip install -r requirements.txt
+```
+
+Ou usando UV (Eu prefiro):
+
+```bash
+uv init
+uv venv
+uv add -r requirements.txt
+uv sync
 ```
 
 4. **Configure a chave da API**
